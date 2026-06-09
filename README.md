@@ -24,6 +24,15 @@ A terminal-focused open-source project — tooling and utilities for command-lin
 - Utilities aimed at improving developer terminal experiences
 - Open-source reference implementations for CLI patterns
 
+### [sqs.chat](https://github.com/rasrobo/sqs.chat)
+
+A self-hosted open-source dictation app that turns speech into text using local inference — no data leaves your server.
+
+- Built on OpenAI Whisper for CPU-optimised speech-to-text transcription
+- Docker Compose stack: FastAPI web app, Caddy reverse proxy, Whisper inference service
+- Optional GitHub OAuth with daily usage quotas
+- Designed for private, self-hosted dictation workflows on your own infrastructure
+
 ---
 
 ## Why this repo exists
