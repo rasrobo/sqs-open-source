@@ -35,6 +35,20 @@ A self-hosted open-source dictation app that turns speech into text using local 
 
 ---
 
+### [sqs-vibe-check](https://github.com/rasrobo/sqs-vibe-check)
+
+A Dockerised malware scanner for Git repositories and source trees — powered by ClamAV.
+
+
+
+- Scans AI-generated and vibe-coded repos for malware before shipping
+
+- Standalone CLI, CI/CD integration, or marketplace deployment
+
+- Uses the ClamAV engine maintained by Cisco Talos
+
+- Open-source, Dockerized, ready to run
+
 ## Why this repo exists
 
 This repository is the public index for Side Quest Studios open-source work. It exists so that visitors, contributors, and potential collaborators can find our projects in one place without digging through profiles or search results.
