@@ -82,6 +82,8 @@ Star or watch individual repositories to stay updated on specific projects. You 
 
 ---
 
-Built by [Ras Robo / Side Quest Studios](https://sidequeststudios.xyz)
+Built by [Side Quest Studios](https://sidequeststudios.xyz)
 
 If you find any of these projects useful, consider [supporting development on Ko-fi](https://ko-fi.com/sidequeststudios).
+
+*Keywords: DNS management, Namecheap API, self-hosted email, Mail-in-a-Box Docker, CLI tools, malware scanner, speech-to-text, open-source infrastructure, devops utilities*
