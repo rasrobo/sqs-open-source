@@ -35,6 +35,17 @@ A self-hosted open-source dictation app that turns speech into text using local 
 
 ---
 
+### [zonedrop](https://github.com/rasrobo/zonedrop)
+
+Idempotent Namecheap DNS zone sync with safety guards — a CLI tool and Docker image for managing DNS zones without accidentally blowing away infrastructure records.
+
+- Read, merge, guard, backup, write, verify pipeline
+- Infrastructure record protection (aborts if required records would be removed)
+- Full zone backup to disk before every write
+- Post-write verification with retry
+- Credentials via CLI args, env vars, or encrypted vault file (`zonedrop vault encrypt`)
+- Docker image ready for CI/CD or Ansible integration
+
 ### [sqs-vibe-check](https://github.com/rasrobo/sqs-vibe-check)
 
 A Dockerised malware scanner for Git repositories and source trees — powered by ClamAV.
